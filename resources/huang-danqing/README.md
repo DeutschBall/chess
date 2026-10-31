@@ -8,7 +8,7 @@
 
 先精简标题，再按“日期＋精简后标题”去重，同组保留较长版本，时长相同则保留最新投稿。不同日期的相同棋题仍按日期分别列出。
 
-[归并规则及示例](METHOD.md) · [逐条合并记录 CSV](dedup-audit.csv) · [待分类投稿](pending.md)
+[归并规则及示例](METHOD.md) · [整理过程与每日更新](PROCESS.md) · [逐条合并记录 CSV](dedup-audit.csv) · [待分类投稿](pending.md)
 
 ## 按月阅读
 
