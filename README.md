@@ -4,4 +4,5 @@
 
 ## 视频资料
 
-- [黄丹青 B 站视频：5,275 个课题条目（按日期与着法主题归并），按月索引及完整表格](resources/huang-danqing/README.md)
+- [黄丹青 B 站视频：4,641 条（按日期及精简标题去重），按月索引及完整表格](resources/huang-danqing/README.md)
+- [待分类投稿：442 条](resources/huang-danqing/pending.md)
