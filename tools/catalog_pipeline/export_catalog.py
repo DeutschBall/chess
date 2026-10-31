@@ -38,7 +38,7 @@ lines=['# 黄丹青 B 站视频资料','','来源：[B 站用户页](https://spa
 lines += [f'| [{m}](monthly/{m}.md) | {len(groups[m])} |' for m in sorted(groups,reverse=True)]
 lines += ['','## 完整文件','','- [Markdown 完整列表](黄丹青_B站视频.md)','- [CSV 表格](黄丹青_B站视频.csv)','- [Excel 表格](黄丹青_B站视频.xlsx)','', '完整文件较大，若 GitHub 无法预览，可点击文件页的 Raw / Download 下载。']
 (out/'README.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
-(root/'README.md').write_text(f'# 信球中国象棋学习资料\n\n记录中国象棋学习资料、练习与复盘。\n\n## 视频资料\n\n- [黄丹青 B 站视频：{len(rows):,} 条（按日期及精简标题去重），按月索引及完整表格](resources/huang-danqing/README.md)\n- [待分类投稿：{len(pending):,} 条](resources/huang-danqing/pending.md)\n',encoding='utf-8')
+(root/'README.md').write_text(f'# 信球中国象棋学习资料\n\n记录中国象棋学习资料、练习与复盘。\n\n## 视频资料\n\n- [黄丹青 B 站视频：{len(rows):,} 条（按日期及精简标题去重），按月索引及完整表格](resources/huang-danqing/README.md)\n- [待分类投稿：{len(pending):,} 条](resources/huang-danqing/pending.md)\n\n## 图解复盘\n\n- [弃马十三着：关键局面图与着法讲解](lessons/qima-shisan/README.md)\n',encoding='utf-8')
 from datetime import datetime
 from zoneinfo import ZoneInfo
 pending_rows=[[f"https://www.bilibili.com/video/{r['bvid']}/",datetime.fromtimestamp(r['pubdate'],ZoneInfo('Asia/Shanghai')).strftime('%Y-%m-%d')] for r in pending]
