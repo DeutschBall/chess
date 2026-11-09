@@ -2,12 +2,13 @@
 
 [返回主目录](README.md)
 
-共 442 条。原题没有提供可用于命名的具体着法或局面，无法仅凭“未注明着法”判定内容相同，因此保留全部链接，暂不放入棋题主目录。
+共 443 条。原题没有提供可用于命名的具体着法或局面，无法仅凭“未注明着法”判定内容相同，因此保留全部链接，暂不放入棋题主目录。
 
 [下载 CSV](pending.csv)
 
 | 链接 | 日期 |
 | --- | --- |
+| [观看视频](https://www.bilibili.com/video/BV1qr4s6vEYE/) | 2026-11-08 |
 | [观看视频](https://www.bilibili.com/video/BV1G7ub6oEMW/) | 2026-08-07 |
 | [观看视频](https://www.bilibili.com/video/BV1wY7Y6rEP4/) | 2026-06-25 |
 | [观看视频](https://www.bilibili.com/video/BV1J7RDBLEdP/) | 2026-05-09 |
