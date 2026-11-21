@@ -1,10 +1,12 @@
 """Group likely repeated uploads using title wording and duration, with an audit trail."""
-import csv,json,re,collections
+import csv,json,re,collections,sys
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from pathlib import Path
 from difflib import SequenceMatcher
 from dedup_analysis import topic
+sys.path.insert(0, 'chess/tools')
+from clean_titles import clean_title
 
 rows=sorted([r for p in Path('bilibili_data').glob('*.json') for r in json.loads(p.read_text())['data']['archives']],key=lambda r:(r['pubdate'],r['aid']),reverse=True)
 manual={'BV1fUx16tEMA','BV1f2x16ZE72','BV1e4x66TEeZ','BV1Dex66aEfs'}
@@ -48,14 +50,17 @@ def day(r):
 groups=[]
 for r in sorted(kept,key=lambda r:(r['pubdate'],r['aid']),reverse=True):
     k=lesson(r);matched=None
-    if len(k)>=8:
+    # Generic wording cannot establish that a game and review cover one lesson.
+    classified=clean_title(r['title'])!='未注明着法'
+    if classified and len(k)>=8:
         for g in reversed(groups):
             if g['maxday']-day(r)>1:break
+            if not g['classified']:continue
             other=g['key']
             if k==other or (min(len(k),len(other))>=12 and numbers(k)==numbers(other) and SequenceMatcher(None,k,other,autojunk=False).ratio()>=0.90):
                 matched=g;break
     if matched is None:
-        groups.append({'key':k,'maxday':day(r),'items':[r]})
+        groups.append({'key':k,'maxday':day(r),'classified':classified,'items':[r]})
     else:matched['items'].append(r)
 redirect={}
 final=[]

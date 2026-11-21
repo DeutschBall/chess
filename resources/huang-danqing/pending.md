@@ -2,12 +2,13 @@
 
 [返回主目录](README.md)
 
-共 444 条。原题没有提供可用于命名的具体着法或局面，无法仅凭“未注明着法”判定内容相同，因此保留全部链接，暂不放入棋题主目录。
+共 456 条。原题没有提供可用于命名的具体着法或局面，无法仅凭“未注明着法”判定内容相同，因此保留全部链接，暂不放入棋题主目录。
 
 [下载 CSV](pending.csv)
 
 | 链接 | 日期 |
 | --- | --- |
+| [观看视频](https://www.bilibili.com/video/BV17HyxzFEPu/) | 2026-11-20 |
 | [观看视频](https://www.bilibili.com/video/BV1QUsh6TETD/) | 2026-11-19 |
 | [观看视频](https://www.bilibili.com/video/BV1qr4s6vEYE/) | 2026-11-08 |
 | [观看视频](https://www.bilibili.com/video/BV1G7ub6oEMW/) | 2026-08-07 |
@@ -26,6 +27,7 @@
 | [观看视频](https://www.bilibili.com/video/BV1sWNwzVERt/) | 2026-03-07 |
 | [观看视频](https://www.bilibili.com/video/BV1L7PPzwE1c/) | 2026-03-04 |
 | [观看视频](https://www.bilibili.com/video/BV1XsPPz4EvS/) | 2026-03-04 |
+| [观看视频](https://www.bilibili.com/video/BV1WzfxBZEjr/) | 2026-02-25 |
 | [观看视频](https://www.bilibili.com/video/BV1NFftBPEt3/) | 2026-02-25 |
 | [观看视频](https://www.bilibili.com/video/BV1T1f3BtE95/) | 2026-02-20 |
 | [观看视频](https://www.bilibili.com/video/BV1t1f3BtEpz/) | 2026-02-20 |
@@ -39,6 +41,7 @@
 | [观看视频](https://www.bilibili.com/video/BV11d6rB4Ehh/) | 2026-01-31 |
 | [观看视频](https://www.bilibili.com/video/BV1c36vBPEk8/) | 2026-01-30 |
 | [观看视频](https://www.bilibili.com/video/BV1rU6YBFEzi/) | 2026-01-30 |
+| [观看视频](https://www.bilibili.com/video/BV1LAzzBwENz/) | 2026-01-24 |
 | [观看视频](https://www.bilibili.com/video/BV1DGzEBeE1B/) | 2026-01-21 |
 | [观看视频](https://www.bilibili.com/video/BV1XNzjBhEqU/) | 2026-01-21 |
 | [观看视频](https://www.bilibili.com/video/BV1aGkjBqEc4/) | 2026-01-20 |
@@ -128,6 +131,7 @@
 | [观看视频](https://www.bilibili.com/video/BV1LPYCzLEeA/) | 2025-08-17 |
 | [观看视频](https://www.bilibili.com/video/BV1CoYqzyEbT/) | 2025-08-16 |
 | [观看视频](https://www.bilibili.com/video/BV1hmb5zUEXs/) | 2025-08-11 |
+| [观看视频](https://www.bilibili.com/video/BV1Qyb5zSEmA/) | 2025-08-11 |
 | [观看视频](https://www.bilibili.com/video/BV1YXtWzGEE3/) | 2025-08-09 |
 | [观看视频](https://www.bilibili.com/video/BV15QtqznE9D/) | 2025-08-07 |
 | [观看视频](https://www.bilibili.com/video/BV1r6hGzaEcd/) | 2025-08-04 |
@@ -147,6 +151,8 @@
 | [观看视频](https://www.bilibili.com/video/BV1Hw3mz2Eoz/) | 2025-07-07 |
 | [观看视频](https://www.bilibili.com/video/BV1QX3rz7E99/) | 2025-07-07 |
 | [观看视频](https://www.bilibili.com/video/BV1MDgQziExp/) | 2025-07-01 |
+| [观看视频](https://www.bilibili.com/video/BV1MDgQziEHA/) | 2025-07-01 |
+| [观看视频](https://www.bilibili.com/video/BV1jegQz7EGu/) | 2025-07-01 |
 | [观看视频](https://www.bilibili.com/video/BV1fDKUzPEgs/) | 2025-06-28 |
 | [观看视频](https://www.bilibili.com/video/BV1c1KUzBEwg/) | 2025-06-28 |
 | [观看视频](https://www.bilibili.com/video/BV17xK1zRE43/) | 2025-06-28 |
@@ -174,8 +180,10 @@
 | [观看视频](https://www.bilibili.com/video/BV1srZ3YoEZf/) | 2025-03-27 |
 | [观看视频](https://www.bilibili.com/video/BV1hJoYYtEc1/) | 2025-03-26 |
 | [观看视频](https://www.bilibili.com/video/BV1k3Q9YdEkM/) | 2025-03-19 |
+| [观看视频](https://www.bilibili.com/video/BV17nQ9YSEWo/) | 2025-03-19 |
 | [观看视频](https://www.bilibili.com/video/BV1aFNMeCEFx/) | 2025-02-08 |
 | [观看视频](https://www.bilibili.com/video/BV1s6f7Y1EmB/) | 2025-01-24 |
+| [观看视频](https://www.bilibili.com/video/BV188f7YpEfQ/) | 2025-01-24 |
 | [观看视频](https://www.bilibili.com/video/BV1swcCesE29/) | 2025-01-13 |
 | [观看视频](https://www.bilibili.com/video/BV13cC7YEEoW/) | 2024-12-24 |
 | [观看视频](https://www.bilibili.com/video/BV1nNkcYmEc4/) | 2024-12-18 |
@@ -199,6 +207,7 @@
 | [观看视频](https://www.bilibili.com/video/BV1Ty411i7tH/) | 2024-07-07 |
 | [观看视频](https://www.bilibili.com/video/BV1pm421G7uz/) | 2024-07-05 |
 | [观看视频](https://www.bilibili.com/video/BV1Cb421H7JK/) | 2024-07-01 |
+| [观看视频](https://www.bilibili.com/video/BV1NH4y1w79k/) | 2024-07-01 |
 | [观看视频](https://www.bilibili.com/video/BV1aJ4m1T72R/) | 2024-06-28 |
 | [观看视频](https://www.bilibili.com/video/BV1jZ421M753/) | 2024-06-27 |
 | [观看视频](https://www.bilibili.com/video/BV1pf421B7ab/) | 2024-06-19 |
@@ -219,6 +228,7 @@
 | [观看视频](https://www.bilibili.com/video/BV1Rw4m1i7CG/) | 2024-06-02 |
 | [观看视频](https://www.bilibili.com/video/BV1ts421G7eZ/) | 2024-05-30 |
 | [观看视频](https://www.bilibili.com/video/BV1NH4y1u768/) | 2024-05-18 |
+| [观看视频](https://www.bilibili.com/video/BV18Z42147t1/) | 2024-05-18 |
 | [观看视频](https://www.bilibili.com/video/BV1dw4m1S7QF/) | 2024-05-16 |
 | [观看视频](https://www.bilibili.com/video/BV1Xz421178w/) | 2024-05-13 |
 | [观看视频](https://www.bilibili.com/video/BV13r421E74i/) | 2024-05-13 |
@@ -238,6 +248,7 @@
 | [观看视频](https://www.bilibili.com/video/BV1rC41137Fo/) | 2024-04-20 |
 | [观看视频](https://www.bilibili.com/video/BV1VE421M7P7/) | 2024-04-19 |
 | [观看视频](https://www.bilibili.com/video/BV1wF4m1N7Hb/) | 2024-04-16 |
+| [观看视频](https://www.bilibili.com/video/BV1W1421Z7Wd/) | 2024-04-15 |
 | [观看视频](https://www.bilibili.com/video/BV1CZ421v7Kv/) | 2024-04-15 |
 | [观看视频](https://www.bilibili.com/video/BV15Z421Y7kQ/) | 2024-04-14 |
 | [观看视频](https://www.bilibili.com/video/BV1Sx4y1a7ip/) | 2024-04-14 |
@@ -436,6 +447,7 @@
 | [观看视频](https://www.bilibili.com/video/BV1F3411K76i/) | 2022-04-23 |
 | [观看视频](https://www.bilibili.com/video/BV16S4y1c7WR/) | 2022-04-23 |
 | [观看视频](https://www.bilibili.com/video/BV1444y1g74m/) | 2022-04-22 |
+| [观看视频](https://www.bilibili.com/video/BV1nS4y1c7mN/) | 2022-04-22 |
 | [观看视频](https://www.bilibili.com/video/BV1ZS4y1Y7AS/) | 2022-04-18 |
 | [观看视频](https://www.bilibili.com/video/BV1ku411e7eb/) | 2022-04-09 |
 | [观看视频](https://www.bilibili.com/video/BV1gY411V738/) | 2022-03-08 |
