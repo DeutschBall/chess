@@ -2,14 +2,15 @@
 
 来源：https://space.bilibili.com/1667150867
 
-主目录共 4,661 条，同一天的精简标题不重复；另有 456 条缺少着法信息的投稿列入待分类清单。从原始 7,758 条中累计合并 2,641 条。
+主目录共 4,662 条，同一天的精简标题不重复；另有 456 条缺少着法信息的投稿列入待分类清单。从原始 7,760 条中累计合并 2,642 条。
 
-日期采用北京时间，数据获取日期：2026-11-21。标题仅保留着法、局面及战术手段，去掉头衔、广告、复盘标记和话题标签。发布日期及排序沿用所选视频。
+日期采用北京时间，数据获取日期：2026-11-22。标题仅保留着法、局面及战术手段，去掉头衔、广告、复盘标记和话题标签。发布日期及排序沿用所选视频。
 
 [归并规则与说明](METHOD.md) · [待分类投稿](pending.md)
 
 | 链接 | 标题 | 日期 |
 | --- | --- | --- |
+| [观看视频](https://www.bilibili.com/video/BV1cwyhzEE87/) | 对付急进中兵两步关键棋 | 2026-11-21 |
 | [观看视频](https://www.bilibili.com/video/BV1UCss6jE7w/) | 仙人指路对卒底炮一招妙手打车 | 2026-11-19 |
 | [观看视频](https://www.bilibili.com/video/BV1Xusy63EtS/) | 五六炮对窝心马攻防要领 | 2026-11-18 |
 | [观看视频](https://www.bilibili.com/video/BV14osM6YEcq/) | 横车盘河马 | 2026-11-17 |
@@ -719,7 +720,7 @@
 | [观看视频](https://www.bilibili.com/video/BV133miBBEqX/) | 万能屏风马 | 2025-12-14 |
 | [观看视频](https://www.bilibili.com/video/BV1ocmiB5Ebj/) | 小卒过河顶大车 | 2025-12-14 |
 | [观看视频](https://www.bilibili.com/video/BV1jSmQBoE4R/) | 反宫马对付过宫炮 | 2025-12-14 |
-| [观看视频](https://www.bilibili.com/video/BV1AHmRBCEtN/) | 对付弃马局一定要记住这几步关键棋 | 2025-12-13 |
+| [观看视频](https://www.bilibili.com/video/BV1AHmRBCEtN/) | 对付弃马局几步关键棋 | 2025-12-13 |
 | [观看视频](https://www.bilibili.com/video/BV1kNmdBVEjv/) | 顺炮、横车、进攻、得子 | 2025-12-13 |
 | [观看视频](https://www.bilibili.com/video/BV1zMm9BYEFy/) | 五九炮对直车单提马阵型转换活学活用 | 2025-12-13 |
 | [观看视频](https://www.bilibili.com/video/BV1wgm5BfEVA/) | 三步虎变化 | 2025-12-13 |
@@ -1365,7 +1366,7 @@
 | [观看视频](https://www.bilibili.com/video/BV1Y4eUzZE5f/) | 半途列炮 | 2025-08-27 |
 | [观看视频](https://www.bilibili.com/video/BV17ae1zZEBY/) | 弃马局 | 2025-08-27 |
 | [观看视频](https://www.bilibili.com/video/BV14ve2zyEQY/) | 对付中炮盘河马出其不意攻其不备速胜招法 | 2025-08-27 |
-| [观看视频](https://www.bilibili.com/video/BV1VAemzxEBs/) | 破解牛头滚关键招法一定要记住 | 2025-08-27 |
+| [观看视频](https://www.bilibili.com/video/BV1VAemzxEBs/) | 破解牛头滚关键招法 | 2025-08-27 |
 | [观看视频](https://www.bilibili.com/video/BV1BMeyzsExq/) | 三步虎、五八炮、打车 | 2025-08-27 |
 | [观看视频](https://www.bilibili.com/video/BV1PieyzNEav/) | 五六炮 | 2025-08-27 |
 | [观看视频](https://www.bilibili.com/video/BV1RoeyzQERB/) | 五八炮专制反宫马，弃马 | 2025-08-27 |
@@ -2343,7 +2344,7 @@
 | [观看视频](https://www.bilibili.com/video/BV1T4421U7a8/) | 五六炮对窝心马 | 2024-07-14 |
 | [观看视频](https://www.bilibili.com/video/BV1Pf421q7KC/) | 左炮封车和棋谱 | 2024-07-14 |
 | [观看视频](https://www.bilibili.com/video/BV1hw4m1a7wK/) | 对付飞相拐角马 | 2024-07-13 |
-| [观看视频](https://www.bilibili.com/video/BV17z421q7HW/) | 五六炮对窝心马，一定要记住炮六进三这步关键棋 | 2024-07-12 |
+| [观看视频](https://www.bilibili.com/video/BV17z421q7HW/) | 五六炮对窝心马，炮六进三这步关键棋 | 2024-07-12 |
 | [观看视频](https://www.bilibili.com/video/BV1AE421P73f/) | 对付中炮盘河马，炮二进三破连环马 | 2024-07-12 |
 | [观看视频](https://www.bilibili.com/video/BV1KT421k74V/) | 对付盘河马右横车 | 2024-07-12 |
 | [观看视频](https://www.bilibili.com/video/BV1RJ4m1T7Hy/) | 五七炮进三兵双杯献酒 | 2024-07-11 |
@@ -2376,7 +2377,7 @@
 | [观看视频](https://www.bilibili.com/video/BV1dS42197oN/) | 一马换双象 | 2024-07-05 |
 | [观看视频](https://www.bilibili.com/video/BV1ay411B7Lp/) | 为什么给大家推荐五六炮布局 | 2024-07-05 |
 | [观看视频](https://www.bilibili.com/video/BV1Hm421g7Tt/) | 五九炮对付盘河马补士变 | 2024-07-05 |
-| [观看视频](https://www.bilibili.com/video/BV1fz421q7sd/) | 对付急进中兵，一定要记住炮二进一打车 | 2024-07-04 |
+| [观看视频](https://www.bilibili.com/video/BV1fz421q7sd/) | 对付急进中兵，炮二进一打车 | 2024-07-04 |
 | [观看视频](https://www.bilibili.com/video/BV1vm421g75W/) | 得车的战术 | 2024-07-04 |
 | [观看视频](https://www.bilibili.com/video/BV15f421q7CR/) | 五七炮进三兵 | 2024-07-04 |
 | [观看视频](https://www.bilibili.com/video/BV17Z421T7Ez/) | 五七炮进三兵精彩对局 | 2024-07-04 |
@@ -2418,7 +2419,7 @@
 | [观看视频](https://www.bilibili.com/video/BV1ww4m1e7AZ/) | 五六、七、八炮布阵特点和应对策略 | 2024-06-27 |
 | [观看视频](https://www.bilibili.com/video/BV1Fw4m1e7Li/) | 五六炮对付飞相拐角马，六路炮对付卧槽马 | 2024-06-27 |
 | [观看视频](https://www.bilibili.com/video/BV1sx4y1t7rC/) | 对付野路子飞相拐角马 | 2024-06-27 |
-| [观看视频](https://www.bilibili.com/video/BV1Wz421z7tv/) | 对付急进中兵，一定要记住炮二进一这步棋 | 2024-06-27 |
+| [观看视频](https://www.bilibili.com/video/BV1Wz421z7tv/) | 对付急进中兵，炮二进一这步棋 | 2024-06-27 |
 | [观看视频](https://www.bilibili.com/video/BV1bn4y1X7pv/) | 骑河车进攻中炮盘河马 | 2024-06-26 |
 | [观看视频](https://www.bilibili.com/video/BV1fm421V7hf/) | 急进中兵对付屏风马右横车 | 2024-06-26 |
 | [观看视频](https://www.bilibili.com/video/BV1t4421S7ag/) | 对付不过河车五六炮 | 2024-06-26 |
